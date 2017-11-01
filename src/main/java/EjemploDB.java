@@ -45,6 +45,7 @@ public class EjemploDB extends SQLiteOpenHelper {
 
         db.insert(TABLA_NOMBRES, null, values);
         db.close();
+
     }
 
     public void obtener(int id){
