@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alignment_reign_values">
+        <item>Legal Bueno</item>
+        <item>Neutral Bueno</item>
+        <item>Caótico Bueno</item>
+        <item>Legal Neutral</item>
+        <item>Neutral</item>
+        <item>Caótico Neutral</item>
+        <item>Legal Maligno</item>
+        <item>Neutral Maligno</item>
+        <item>Caótico Maligno</item>
+    </string-array>
+</resources>

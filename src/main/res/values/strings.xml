@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kingmaker Pathfinder Tool</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="reign_tool">Reign Tool</string>
+    <string name="map_tool">Map Tool</string>
+    <string name="calendar">Calendar</string>
+    <string name="turn_calc">Turn Calculator</string>
+    <string name="new_reign">New Reign</string>
+    <string name="modify_reign">Modify Reign</string>
+    <string name="data_reign_name">Name of the Reign</string>
+    <string name="data_campaign_name">Name of the Campaign</string>
+    <string name="data_reign_size">Reign Size</string>
+    <string name="data_reign_alignment">Reign Alignment</string>
+    <string name="data_control_DC">Control DC</string>
+    <string name="data_population">Population</string>
+    <string name="data_reign_stability">Stability</string>
+    <string name="data_reign_economy">Economy</string>
+    <string name="data_reign_loyalty">Loyalty</string>
+    <string name="data_reign_unrest">Unrest</string>
+    <string name="data_reign_consumption">Consumption</string>
+    <string name="data_reign_treasury">Treasury</string>
+    <string name="data_reign_special_resources">Special Resources</string>
+    <string name="leadership_button">Leadership</string>
+    <string name="leadership_ruler">Ruler</string>
+    <string name="fullname">Fullname</string>
+    <string name="number" translatable="false">#</string>
+</resources>

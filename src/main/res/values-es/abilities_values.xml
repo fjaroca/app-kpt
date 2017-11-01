@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abilities_values">
+        <item>FUE</item>
+        <item>DES</item>
+        <item>CON</item>
+        <item>INT</item>
+        <item>SAB</item>
+        <item>CAR</item>
+    </string-array>
+</resources>

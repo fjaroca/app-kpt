@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fjaroca.kingmakerpathfindertool">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainMenu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TurnCalc"
+            android:parentActivityName=".MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenu" />
+        </activity>
+        <activity
+            android:name=".ReignTool"
+            android:parentActivityName=".MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenu" />
+        </activity>
+        <activity
+            android:name=".MapTool"
+            android:parentActivityName=".MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenu" />
+        </activity>
+        <activity
+            android:name=".Calendar"
+            android:parentActivityName=".MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenu" />
+        </activity>
+        <activity
+            android:name=".NewReign"
+            android:parentActivityName=".ReignTool">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ReignTool" />
+        </activity>
+        <activity
+            android:name=".ModifyReign"
+            android:parentActivityName=".ReignTool">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ReignTool" />
+        </activity>
+        <activity
+            android:name=".LeadershipReign"
+            android:parentActivityName=".NewReign">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NewReign" />
+        </activity>
+    </application>
+
+</manifest>

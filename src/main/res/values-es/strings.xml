@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="turn_calc">Calculador de Turno</string>
+    <string name="reign_tool">Gestión del Reino</string>
+    <string name="map_tool">Gestión de Mapa</string>
+    <string name="calendar">Calendario</string>
+    <string name="edit_message">Introduce un mensaje</string>
+    <string name="app_name">Kingmaker Pathfinder Tool</string>
+    <string name="new_reign">Nuevo Reino</string>
+    <string name="modify_reign">Modificar Reino</string>
+    <string name="data_reign_name">Nombre del Reino</string>
+    <string name="data_campaign_name">Nombre de la Campaña</string>
+    <string name="data_reign_size">Tamaño del Reino</string>
+    <string name="data_reign_alignment">Alineamiento del Reino</string>
+    <string name="data_control_DC">CD de Control</string>
+    <string name="data_population">Población</string>
+    <string name="data_reign_stability">Estabilidad</string>
+    <string name="data_reign_economy">Economía</string>
+    <string name="data_reign_loyalty">Lealtad</string>
+    <string name="data_reign_unrest">Descontento</string>
+    <string name="data_reign_consumption">Consumo</string>
+    <string name="data_reign_treasury">Tesoro público</string>
+    <string name="data_reign_special_resources">Recursos Especiales</string>
+    <string name="leadership_button">Liderazgo</string>
+    <string name="leadership_ruler">Gobernante</string>
+    <string name="fullname">Nombre</string>
+</resources>
