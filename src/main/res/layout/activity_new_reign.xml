@@ -91,7 +91,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
-            android:textAlignment="textEnd"
+            android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/sizeReignText"
             app:layout_constraintTop_toBottomOf="@+id/alignmentReign" />
@@ -159,7 +159,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
-            android:textAlignment="textStart"
+            android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/stability"
             app:layout_constraintTop_toBottomOf="@+id/controlDC" />
@@ -185,7 +185,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
-            android:textAlignment="textStart"
+            android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/economy"
             app:layout_constraintTop_toBottomOf="@+id/stability" />
@@ -209,7 +209,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
-            android:textAlignment="textStart"
+            android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/loyalty"
             app:layout_constraintTop_toBottomOf="@+id/economy" />
@@ -235,6 +235,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
+            android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/unrest"
             app:layout_constraintTop_toBottomOf="@+id/loyalty" />
